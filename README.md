@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Decentralized Voting Application
 
 This is a demo application to implement voting in solidity smart contract using ReactJS. 
@@ -26,3 +27,6 @@ Once you have pasted your private key and contract address in the .env file, sim
 ```shell
 npm start
 ```
+=======
+# blockchain-voting-system
+>>>>>>> 8278303e0c86b9c0323a76bbae555e1d61c04eed
